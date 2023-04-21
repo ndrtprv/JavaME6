@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JavaME6</string>
+    <string name="exit">Exit</string>
+    <string name="save_data">Save data?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="saved">Data saved.</string>
+    <string name="info" />
+    <string name="exit_button">Exit</string>
+</resources>
