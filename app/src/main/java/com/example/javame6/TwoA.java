@@ -2,14 +2,10 @@ package com.example.javame6;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
-import android.os.Handler;
+import android.os.*;
 import android.util.Log;
 import android.view.View;
-import android.widget.CheckBox;
-import android.widget.CompoundButton;
-import android.widget.ProgressBar;
-import android.widget.TextView;
+import android.widget.*;
 
 import java.util.concurrent.TimeUnit;
 

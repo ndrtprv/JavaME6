@@ -10,13 +10,13 @@
         style="?android:attr/progressBarStyleHorizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"></ProgressBar>
+        android:layout_marginTop="20dp" />
 
     <CheckBox
         android:id="@+id/chbInfo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/info"></CheckBox>
+        android:text="@string/info" />
 
     <TextView
         android:id="@+id/tvInfo"
@@ -25,5 +25,5 @@
         android:text=""
         android:textSize="16sp"
         android:textStyle="bold"
-        android:visibility="gone"></TextView>
+        android:visibility="gone" />
 </LinearLayout>
